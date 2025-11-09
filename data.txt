@@ -1,4 +1,4 @@
 Name: Alexandra
 Age: 29
 Favorite Color: Red
-Favorite food: rice
+Favorite food: burger
